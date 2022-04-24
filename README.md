@@ -2,6 +2,9 @@
 ## Introduction
 - Advertising on the whole population can be costly and ineffective
 
+## Contributors
+- @yungchu123 - K Means Clustering
+
 ## Problem Definition
 - Choose a target customer segment for marketing campaign in order to reduce costs and maximise profits
 - Specific Product Chosen: Wine
@@ -25,4 +28,7 @@
 ## Conclusion
 - Thus, our recommendation is to target wine marketing specifically on households with high income and no kids at home.
  
+ ## References
+ - https://www.kaggle.com/code/willianhaeberlin/naive-bayes-classification/notebook
+ - https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
 
