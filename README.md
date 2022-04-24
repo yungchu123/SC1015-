@@ -3,7 +3,9 @@
 - Advertising on the whole population can be costly and ineffective
 
 ## Contributors
-- @yungchu123 - K Means Clustering
+- Twu Pin Yang - Data Preparation and Exploratory Analysis
+- Marco Nathaniel Lu Ng - Decision Tree Models and Data Insights
+- @yungchu123 - K Means Clustering and Conclusion
 
 ## Problem Definition
 - Choose a target customer segment for marketing campaign in order to reduce costs and maximise profits
